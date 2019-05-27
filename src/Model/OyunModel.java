@@ -11,6 +11,7 @@ package Model;
  */
 public class OyunModel {
     private int adet;
+    int a=5;
     private String selectedLayouth;
 
     /**
